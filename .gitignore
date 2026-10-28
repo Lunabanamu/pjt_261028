@@ -1,0 +1,13 @@
+/.venv
+/01_metrics.py
+/01_기본필수
+/02_기본필수_auc.py
+/02_응용
+/03_기본필수_rmse.py
+/03_심화
+/04_기본필수_features.py
+/04_특심화
+/05_기본필수_kmeans.py
+/06_기본필수_plan.py
+/README.md
+/requirements.txt
